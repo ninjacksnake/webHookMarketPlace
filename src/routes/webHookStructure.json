@@ -1,0 +1,24 @@
+{
+  "event": "order.created",
+  "timestamp": 1635234321,
+  "url": "....com",
+  "security": {
+    "jwt": "12345667dffhgjkl45679798"
+  },
+  "data": {
+    "order_id": "12345",
+    "customer_name": "Yarodis",
+    "total_amount": 100.5,
+    "items": [
+      {
+        "product_id": "",
+        "quantity": 2
+      },
+      {
+        "product_id": "",
+        "quantity": 3
+      }
+    ]
+  },
+  "source": "your-company"
+}
